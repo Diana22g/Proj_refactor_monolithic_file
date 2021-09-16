@@ -1,3 +1,9 @@
+/*
+* constants header
+*
+* Diana G.
+*/
+
 #pragma once
 #include <iostream>
 #include <string>
